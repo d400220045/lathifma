@@ -2,6 +2,7 @@
 <h3 align="center">Electrical & Control Engineer | Automation • IoT • Kelistrikan</h3>
 
 <p align="center">
+  <img width="824" height="1125" alt="Foto jpg" src="https://github.com/user-attachments/assets/661cd9e4-dd47-4748-ab81-2fb0437c29a2" />
   <img src="https://img.shields.io/badge/Fresh%20Graduate-Teknik%20Elektro-blue" />
   <img src="https://img.shields.io/badge/Fokus-Sistem%20Kontrol%20%26%20Otomasi%20Industri-informational" />
   <img src="https://img.shields.io/badge/Lokasi-Sragen%2C%20Jawa%20Tengah-lightgrey" />
