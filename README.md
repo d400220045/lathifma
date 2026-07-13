@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Saya Lathif Miftahuddin Ardeni, S.T.</h1>
 <p align="center">
- <img width="200" height="250" alt="Foto jpg" src="https://github.com/user-attachments/assets/661cd9e4-dd47-4748-ab81-2fb0437c29a2" />
+ <img width="216" height="279" alt="Foto jpg" src="https://github.com/user-attachments/assets/661cd9e4-dd47-4748-ab81-2fb0437c29a2" />
 <h3 align="center">Electrical & Control Engineer | Automation • IoT • Kelistrikan</h3>
 
 <p align="center">
